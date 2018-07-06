@@ -1,0 +1,5 @@
+C:\Users\liorl\Desktop\,\rand\rand\bin\Release\rand.exe.config
+C:\Users\liorl\Desktop\,\rand\rand\bin\Release\rand.exe
+C:\Users\liorl\Desktop\,\rand\rand\bin\Release\rand.pdb
+C:\Users\liorl\Desktop\,\rand\rand\obj\Release\rand.exe
+C:\Users\liorl\Desktop\,\rand\rand\obj\Release\rand.pdb

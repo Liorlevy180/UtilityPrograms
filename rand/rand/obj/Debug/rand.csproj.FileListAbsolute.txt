@@ -1,0 +1,6 @@
+C:\Users\liorl\Desktop\,\rand\rand\bin\Debug\rand.exe.config
+C:\Users\liorl\Desktop\,\rand\rand\bin\Debug\rand.exe
+C:\Users\liorl\Desktop\,\rand\rand\bin\Debug\rand.pdb
+C:\Users\liorl\Desktop\,\rand\rand\obj\Debug\rand.csprojResolveAssemblyReference.cache
+C:\Users\liorl\Desktop\,\rand\rand\obj\Debug\rand.exe
+C:\Users\liorl\Desktop\,\rand\rand\obj\Debug\rand.pdb
